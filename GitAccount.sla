@@ -1,0 +1,30 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binaryazureaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "Partners"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "GitAccount"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "accountName": {
+                "value": "pero"
+            },
+            "primaryAccessKey": {
+                "fp": "5537582b5408b627cd4dd4ff1c4b0ed40ea189ffc33ccf49e196ff6901dea522",
+                "key": "account-cloud-managed-55aeb42a050186140d44b424-2015-07-21T21:05:51-432179",
+                "sym_iv": "paGwNjw8qwUnVDD3QypyFQ==",
+                "sym_key": "rn9MlWge2UnVvij0tA8OhxZKmIsklymWobJV58aX1IlEWuGIC74VukVcchlCL9VW7R0ObMdnQXZ9Y17uPDu1pNEgy1bizcmVxUTfuI30awKgheL6mwPPEco4pI/qX0o2D60EplI+9CPld3D4TbkpdILESsF1BFG1aJSd7t4rPBirTovWXpcVw1AxlKJN7oHlAXMy82yIBr6OrlnGqZMXomfTa3q2wl6LZyEhZ6TVpe9LRaOC9Pp872auMvjL70aUV/AKMxfy4W5Lx7AjPcYMRhvkQyZYXvhvvdy2IH3T38DRqRxnPSv0R3LRdVtSJLFs2vJDsGeUIwjBCb+hKSvKMg==",
+                "value": "wbOqbrIWYZLt5gdFJapsfA=="
+            }
+        },
+        "view_serial": 100
+    }
+}
